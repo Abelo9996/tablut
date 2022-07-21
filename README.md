@@ -1,2 +1,2 @@
 # tablut
-Completed the new and puzzling CS61B project that re-creates a Swedish Royal Puzzle game. Received 33/28 points in the project.
+Implementation of a Swedish Royal Puzzle game known as Tablut. More information of the game can be found [here](https://boardgamegeek.com/boardgame/6121/tablut).
